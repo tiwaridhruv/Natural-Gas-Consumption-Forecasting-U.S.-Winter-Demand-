@@ -1,8 +1,8 @@
-Natural Gas Consumption Forecasting – U.S. Winter Demand
+# ** Natural Gas Consumption Forecasting – U.S. Winter Demand**
 
 This project explores and forecasts monthly U.S. natural gas consumption during winter months (November–March) using a combination of regression analysis and time series forecasting. The analysis integrates key demand drivers such as Heating Degree Days (HDD), Henry Hub gas prices, and storage levels to build predictive models and visualize consumption trends.
 
-📈 Key Highlights
+## 📈 Key Highlights
 
 Applied multiple linear regression with interaction and lag variables to identify core demand drivers (R² = 57%)
 
@@ -12,7 +12,7 @@ Designed a Power BI dashboard to present forecasts, driver relationships, and Wh
 
 Forecasted natural gas demand for 2025 using model outputs and visual storytelling
 
-📊 Tools & Techniques
+## 📊 Tools & Techniques
 
 Excel for data preprocessing and regression modeling
 
@@ -22,7 +22,7 @@ Statistical Methods: Regression with lag terms, Holt-Winters exponential smoothi
 
 Evaluation Metrics: R², MAPE, Visual Forecast Comparison
 
-📁 Data Sources
+## 📁 Data Sources
 
 U.S. EIA: Natural Gas Consumption & Storage
 
