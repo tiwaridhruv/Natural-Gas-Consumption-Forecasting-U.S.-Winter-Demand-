@@ -1,6 +1,3 @@
-time series forecasting to support energy planning and demand estimation.
-📅 Duration: 2010–2024 historical data | 2025 forecast
-🛠 Tools Used: Excel, Power BI, DAX, Holt-Winters, Multiple Linear Regression
 Natural Gas Consumption Forecasting – U.S. Winter Demand
 This project explores and forecasts monthly U.S. natural gas consumption during winter months (November–March) using a combination of regression analysis and time series forecasting. The analysis integrates key demand drivers such as Heating Degree Days (HDD), Henry Hub gas prices, and storage levels to build predictive models and visualize consumption trends.
 
