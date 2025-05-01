@@ -12,6 +12,11 @@ Designed a Power BI dashboard to present forecasts, driver relationships, and Wh
 
 Forecasted natural gas demand for 2025 using model outputs and visual storytelling
 
+
+
+
+![image](https://github.com/user-attachments/assets/242732f4-661a-4114-9699-58a31aeed673)
+
 ## 📊 Tools & Techniques
 
 Excel for data preprocessing and regression modeling
@@ -22,7 +27,7 @@ Statistical Methods: Regression with lag terms, Holt-Winters exponential smoothi
 
 Evaluation Metrics: R², MAPE, Visual Forecast Comparison
 
-## 📁 Data Sources
+Data Sources
 
 U.S. EIA: Natural Gas Consumption & Storage
 
